@@ -1,0 +1,4 @@
+*.pdf
+*.xlsx
+.vscode/
+.ipynb_checkpoints
