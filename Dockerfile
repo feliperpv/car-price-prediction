@@ -2,7 +2,7 @@ FROM python:3.8-slim
 
 WORKDIR /project
 
-COPY requirements.txt /project/requirements.txt
+#COPY requirements.txt /project/requirements.txt
 
 # RUN pip install --no-cache-dir -r requirements.txt
 RUN pip install --no-cache-dir jupyterlab==3.0.0
