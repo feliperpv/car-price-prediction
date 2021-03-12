@@ -15,7 +15,7 @@ The goal of the project is to develop a machine learning model capable of predic
 - `Dockerfile, jupyter_lab_config.py and requirements.txt`: Files to allow run the project anywhere.
 
 ## Results
-*** These results are based on the final model only ***
+***These results are based on the final model only***
 
 - Mean Squared Error: 2638877.198
 - Root Mean Squared Error: 1624.462
@@ -24,7 +24,7 @@ The goal of the project is to develop a machine learning model capable of predic
 - How well the independents variables, that really affect the model, explains the target variable (Adjusted R²): 93,78%
 
 ## Running the jupyter notebook
-*** Docker installed is required (Version used 20.10.5)***
+***Docker installed is required (Version used 20.10.5)***
 
 #### 1 - Clone or download de project
 
