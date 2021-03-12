@@ -39,7 +39,7 @@ docker build -t data-science-project .
 ```sh
 docker run --rm -p 8888:8888 -v ${PWD}:/project --name car-price-prediction data-science-project
 # Running in background
-docker run --rm -d -p 8888:8888 -v ${PWD}:/project --name car-price-prediction feliperpv/data-science-project
+docker run --rm -d -p 8888:8888 -v ${PWD}:/project --name car-price-prediction data-science-project
 ```
 
 #### 3 - Accessing jupyter
